@@ -52,7 +52,7 @@ class SICKReader():
       return self.label2index 
 
 
-path_SICK =   '/content/gdrive/My Drive/Colab Notebooks/dataset_raw/sick/sick_tr'
+path_SICK =   '/SICK_path/'
 
 sick_reader = SICKReader(path_SICK)
 data_split = ['train' , 'test', 'trial']
