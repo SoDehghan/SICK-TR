@@ -1,4 +1,4 @@
-## SICK-TR 1.0  (Semantic Textual Similarity benchmark Turkish)
+## SICK-TR 1.0  (Sentences Involving Compositional Knowledge benchmark Turkish)
 
 English SICK benchmark dataset translated into Turkish using Google Cloud Translation API. 
 No human corrections have been made to the translations.
