@@ -1,0 +1,501 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
+4	Genç çocuklar dışarıda oynuyor ve adam yakınlarda gülümsüyor	Dışarıda oynayan bir çocuk yok ve gülümseyen erkek yok	3.6	CONTRADICTION
+24	Siyah ceketli bir kişi motosiklette hile yapıyor	Yetenekli bir kişi bir tekerleğe bisiklet sürüyor	3.4	NEUTRAL
+105	Dört çocuk spor salonunda backbend yapıyor	Dört kız backbend yapıyor ve açık havada oynuyor	3.8	NEUTRAL
+116	Bir oyuncu topu atıyor	Bir futbol maçında iki takım yarışıyor	2.9	NEUTRAL
+119	Beş çocuk ahşap bir kulübenin önünde duruyor	Beş çocuk ahşap bir kulübede duruyor	4.2	NEUTRAL
+185	Işıksız bir restoranda kırmızı masalarda çok az insan yemek yiyor	Bir restoranda büyük bir grup Asyalı insan yemek	2.6	NEUTRAL
+197	Birisi siyah beyaz bir motosiklette ve koltuğun üzerinde duruyor	Aracın koltuğunda bir motosiklet biniyor	3.165	NEUTRAL
+211	İki köpek bir ağaç tarafından oynuyor	İki köpek bir bitki tarafından oynuyor	4.6	ENTAILMENT
+218	Beyaz bir kız dans ediyor	Bir kız beyaz kıyafetler giyiyor ve dans ediyor	4.9	ENTAILMENT
+219	Beyaz dans eden kız yok	Beyaz bir kız dans ediyor	4.2	CONTRADICTION
+225	Sarışın dans eden kızın önündeki ekipman ses	Beyaz bir kız dans ediyor	2.7	NEUTRAL
+228	Beyaz bir kız dans ediyor	Sarışın kız ses ekipmanının önünde dans ediyor	3.3	NEUTRAL
+236	Bir ailenin çocukları oynuyor ve bekliyor	Asyalı bir adam dans ediyor ve üç çocuk bakıyor	1.9	NEUTRAL
+253	Bir yürüyüşçü dağın tepesinde ve neşeli bir dans yapıyor	Bir yürüyüşçü dağın tepesinde ve dans ediyor	4.7	ENTAILMENT
+280	Bir çocuk suyun dışında duruyor	Çocuk mavi okyanusta dolaşıyor	3.135	NEUTRAL
+285	Kel bir kişi gitar çalıyor	Bir kişinin sarışın ve uçucu saçları vardır ve gitar çalıyor	3.9	NEUTRAL
+304	Eski, üstsüz bir kadın boya ile kaplıdır	Genç, üstsüz bir kadın boya ile kaplıdır	3.8	NEUTRAL
+317	Üniformalı bir grup çocuk bir kapıda duruyor ve anneyi öpmeyen kimse yok	Bir kalabalık suya yakın	1.3	NEUTRAL
+382	Kahverengi ve beyaz bir köpek uzun çimlerin içinden geçiyor	Kahverengi ve beyaz bir köpek yabani otların içinden geçiyor	4.4	NEUTRAL
+384	Beyaz ve ten rengi bir köpek, uzun ve yeşil çimlerin içinden geçiyor	Beyaz ve ten rengi bir köpek bir tarladan geçiyor	4.35	ENTAILMENT
+394	Bir adam bisikletin yanında oturuyor ve bir not yazıyor	Bir adam bisikletin yanında duruyor ve bir parça kağıda yazıyor	3.6	NEUTRAL
+402	Bir grup izci çimlerin içinde yürüyüş yapıyor	Bir grup kaşif çimlerin içinden geçiyor	4.1	NEUTRAL
+417	İki adam karlı bir yolda bir geziye mola veriyor	Arabalı iki adam karlı bir yolun yanında	4.0	NEUTRAL
+450	Bir bayan sörf yapıyor ve dalga sürüyor	Sarışın bir kız dalgalara bakıyor	3.3	NEUTRAL
+520	Gümüş pantolon, pembe çanbottomlar ve pembe eşarp giyen kadın bisiklete biniyor	Gümüş pantolonlu veya bisiklete binen kadınlar tarafından giyilecek pembe çan kutuları ve pembe bir eşarp	3.3	NEUTRAL
+526	Gümüş pantolon, pembe çanbottomlar ve pembe eşarp giyen kadın bisiklete biniyor	Bir yaya kadın boa giyen biniciler için pembe bisikletler inşa ediyor	2.4	NEUTRAL
+530	Bir motorcu siyah olan dişli giyiyor	Siyah giyen bir motorcu dişlileri kırıyor	3.1	NEUTRAL
+592	Bir kadın çok büyük bir pelerin çıkarıyor ve abartılı bir elbiseyi ortaya çıkarıyor	Bir kadın çok büyük bir pelerin giyiyor ve abartılı bir elbiseyi gizliyor	3.5	CONTRADICTION
+619	Bir çocuk tırmanma için yapay olarak inşa edilmiş bir duvara tırmanıyor ve bir ipe bağlı	Korkulu görünen küçük bir çocuk tırmanma duvarında.	3.5	NEUTRAL
+630	Bir adam okyanusun yakınında olan yüzme havuzuna bir çocuk fırlatmaz	Adam bir çocuğu okyanusa yakın yüzme havuzuna atıyor	3.5	CONTRADICTION
+647	Bir adam iple uçuruma tırmanıyor	Pembe tırmanma teçhizatı olan bir kişi kayayı halatladı	3.3	NEUTRAL
+651	Bir kişi bir iple kaya tırmanıyor, bu da pembe	Bir adam iple uçuruma tırmanıyor	4.6	NEUTRAL
+687	Bir beyaz köpek Black Street'e bakıyor	Bir sokakta farklı ırklardan iki köpek birbirine bakıyor	3.4	NEUTRAL
+698	Tüylü ve siyah olan bir köpek arka bahçede ve ağzında bir sepet taşıyor	Muhtemelen çam olan bir ağacın yanındaki bir köpek, bir kova ısırıyor	2.785	NEUTRAL
+717	Bir yarışmada birkaç adam dışarıda koşuyor	Bir yarışmada birkaç adam içeride çalışıyor	3.9	CONTRADICTION
+718	Bir yarışmada birkaç adam dışarıda koşuyor	Birkaç adam dışarıda yarışmalar yapıyor	3.9	NEUTRAL
+765	Çocuk mutlu bir şekilde karda kayıyor	Karla kaplı bir tepedeki bir çocuk kırmızı ceket ve siyah bir şapka giyiyor ve dizlerinin üzerine kayıyor	4.0	NEUTRAL
+780	Yaşlı bir kadın, beyaz bir köpeğin yakınında	Bir kadın ve bir köpek bir ağaç güdük üzerinde oturuyor	3.1	NEUTRAL
+816	Bir grup insan koruyucu ekipmanlarla donatılmıştır	Bir grup insan koruma için kullanılan dişli ile donatılmıştır	5.0	ENTAILMENT
+860	Bir beyaz ve bir siyah köpek çim üzerinde yan yana koşuyor	Siyah bir ceket olan bir köpek ve beyaz bir köpek çim üzerinde koşuyor	4.2	ENTAILMENT
+873	Pek çok insan bir buz pateni parkında değil	Dışarıya yerleştirilmiş bir buz pateni pisti insanlarla doludur	3.5	NEUTRAL
+882	Mavi ve beyaz üniformalı kız tezahürat yapıyor	Kız mavi ve beyaz üniformalı adamı tezahürat ediyor	3.1	NEUTRAL
+913	Bir kadın bir erkek tarafından öpülüyor	Bir erkek tarafından öpülen bir kadın yok	4.2	CONTRADICTION
+933	Kırmızı gömlekdeki kız bir balon üflüyor	Genç kız büyük bir balon üflüyor	3.8	NEUTRAL
+947	Bazı Corndogs, bir vagonda olan iki küçük çocuk tarafından yeniliyor, bu gerçekten küçük	İki küçük çocuk, gerçekten küçük bir vagonda mısır köpekleri yiyor	4.8	ENTAILMENT
+980	Bir adam vahşi doğada atılan bir pistte bir ata biniyor	Bir at kovboyu mavi ve kırmızı renkli pantolon giyiyor	2.1	NEUTRAL
+987	Bir yetişkin amfitiyatro içinde ve bir çocukla konuşuyor	Amfitiyatroda bir çocukla konuşan yetişkin yok	4.3	CONTRADICTION
+988	Amfitiyatroda bir yetişkin ve bir çocuk hakkında bir konuşma verilir	Bir yetişkin amfitiyatro içinde ve bir çocukla konuşuyor	3.1	NEUTRAL
+1039	Snowboardcu Beyaz Karda Sıçramıyor	Snowboard uygulayan bir kişi havaya atlar	3.3	NEUTRAL
+1102	Bir kadın ata biniyor	Bir adam kulaklık içeren küçük bir paket açıyor	1.0	NEUTRAL
+1137	Bir balık denizde bir kaplumbağa avlanıyor	Kaplumbağa balığı takip ediyor	3.5	NEUTRAL
+1170	Bir kadın tarafından bir patates dilimleniyor	Bir kadın havuç dilimliyor	3.0	NEUTRAL
+1177	Bir kadın saçlarını tarıyor	Bir kadın saçlarını düzenliyor	4.1	NEUTRAL
+1178	Bir kadın saçlarını tarıyor	Saçlarını tarayan kadın yok	3.6	CONTRADICTION
+1190	Bir erkek ve bir kadın ormanlık bir alanda yürüyüş yapıyor	Bir erkek ve bir kadın ormanda birlikte yürüyor	4.3	ENTAILMENT
+1192	Bir erkek ve bir kadın ormanda birlikte yürüyor	Bir erkek ve bir kadın ormanlık bir alanda yürüyor	4.6	ENTAILMENT
+1232	Bir adam bir topuz dilimliyor	Bir adam domates dilimliyor	3.6	NEUTRAL
+1236	Bir kadın yalnız dans ediyor ve şarkı söylüyor	Bir kadın diğer kadınlarla dans ediyor ve şarkı söylüyor	3.285	CONTRADICTION
+1237	Bazı kadınlar dans ediyor ve şarkı söylüyor	Bir kadın yağmurda dans ediyor ve şarkı söylüyor	3.8	NEUTRAL
+1241	Bir kadın diğer kadınlarla dans ediyor ve şarkı söylüyor	Bir kadın yağmurda dans ediyor ve şarkı söylüyor	4.1	NEUTRAL
+1266	Bir grup sahnede çalıyor	Bir grup sahnede çalıyor	5.0	ENTAILMENT
+1302	Bir adam flüt oynuyor	Bir adam topla oyun oynuyor	1.5	NEUTRAL
+1333	Kadın diğer kadını ölçüyor	Bir kadın başka bir kadın tarafından ölçülüyor	4.9	ENTAILMENT
+1390	Bir kişi bir motosikletin yanında duruyor	Bir kişi bir soğanı kesiyor	1.2	NEUTRAL
+1396	Bir adam çığlık atıyor	Bir adam korkuyor	3.6	NEUTRAL
+1400	Üzgün bir adam ağlıyor	Bir adam çığlık atıyor	2.9	NEUTRAL
+1410	Bir kadın karidesleri kesiyor	Bir adam tereyağını küçük bir kapa kesiyor	1.4	NEUTRAL
+1412	Erkekler kütükleri kesiyor	Erkekler odun kesiyor	4.5	ENTAILMENT
+1443	Bir adam radyoda konuşuyor	Bir adam tükürüyor	1.7	NEUTRAL
+1469	Üç genç adam koşuyor, atlıyor ve bir otomatın yanında tekmeliyor	Bir otomatın yanında koşan, zıplayan ve tekme atan bir adam yok	3.8	CONTRADICTION
+1470	Üç adam bir duvardan atlıyor	Üç genç adam öfkeyle koşuyor, atlıyor ve bir otomatın yanında tekme atıyor	2.5	NEUTRAL
+1487	Adam tavuk için sosu karıştırmıyor	Adam tavuk için sosu karıştırıyor	4.0	CONTRADICTION
+1493	Bir adam elektro gitar çalıyor	Bir adam gitar çalıyor	4.9	ENTAILMENT
+1495	Bir adam gitar çalıyor	Bir adam bir gitar çalıyor	4.9	ENTAILMENT
+1503	Karate kostümlerinde üç erkek savaşmak	Karate kostümlerinde üç erkek savaşıyor	3.3	CONTRADICTION
+1506	Üç adam açık havada karate uyguluyor	Karate kostümlerinde üç erkek savaşıyor	3.8	NEUTRAL
+1525	Bir kadın biraz çiçek dikiyor	Bir kadın brokoli kesiyor	1.2	NEUTRAL
+1584	Badger tarafından bir delik açılıyor	Bir porsuk dünyayı kurnazca kazıyor	4.5	ENTAILMENT
+1608	Bir yılan bir erkek tarafından bir fare ile besleniyor	Yılan hiçbir yılan bir erkek tarafından bir fare beslenmez	4.7	CONTRADICTION
+1628	Bazı malzemeler bir kişi tarafından bir kasede karıştırılıyor	Bazı malzemeler bir kişi tarafından bir kasede ayrılıyor	4.6	NEUTRAL
+1676	Bir tekne huzur içinde suyun üzerinde yelken açıyor	Gitar adam tarafından oynanıyor	1.1	NEUTRAL
+1690	Süt bir kedi tarafından sarhoş oluyor	Kedi biraz süt içiyor	5.0	ENTAILMENT
+1703	Bir adam plastikten yapılmış bir kabı tamamen boşaltır	Bir adam plastikten yapılmış bir kabı boşaltır	4.7	ENTAILMENT
+1711	Bir adam plastikten yapılmış bir kabı boşaltır	Bir adam dikkatsizce bir kurbağa tutuyor	1.1	NEUTRAL
+1754	Bir kız tarafından güzel bir şekilde oynanıyor	Bir kız tarafından bir flüt oynanıyor	4.6	ENTAILMENT
+1807	Yetişkin gitarı yüksek sesle çalıyor	Bir adam tarafından bir flüt oynanıyor	2.4	NEUTRAL
+1811	Bir adam gitarı yüksek sesle çalıyor	Bir adam tarafından oynanmaz bir flüt	2.4	NEUTRAL
+1839	Küçük olan kız, saçlarını bir midilli kuyruğuna dikkatlice tarıyor	Küçük olan kız, saçlarını midilli kuyruğuna tarıyor.	4.6	ENTAILMENT
+1847	Bir adam sandalyede oturuyor	Küçük olan kız saçlarını karıştırıyor	1.0	NEUTRAL
+1861	Konuşan papağanın önündeki mikrofon susturuluyor	Papağan mikrofonla konuşuyor	4.0	NEUTRAL
+1877	Tepsilerdeki yavru kedi, bir reklam için yiyecek olarak yeniliyor	Tepsilerdeki yiyecekler yavru kedi tarafından yeniyor	3.5	NEUTRAL
+1881	Tepsilerdeki yiyecekler yavru kedi tarafından yeniyor	Birkaç yavru yemek yiyor	4.2	ENTAILMENT
+1964	Bir kişi gitar çalıyor ve şarkı söylüyor	Bir kişi gitar çalıyor ve şarkı söylüyor	4.9	ENTAILMENT
+2001	At bir adam tarafından sürülüyor	Bir adam ata biniyor	5.0	ENTAILMENT
+2019	Bir adam bir ağaca tehlikeli bir bıçak atıyor	Bıçaklı bazı tehlikeli adamlar bir ağaca karşı bisiklet atıyor	3.3	NEUTRAL
+2058	Bir bayan biraz et kesiyor	Biraz et bir kadın tarafından parçalara ayrılıyor	4.8	ENTAILMENT
+2089	Adam bir röportajı inkar ediyor	Adam bir röportaj veriyor	3.2	CONTRADICTION
+2096	Adam bir röportaj veriyor	Bir adamın beyaz arabası uzaklaşıyor	1.1	NEUTRAL
+2130	Küçük bir çocuk bir köpeği azarlıyor	Küçük bir çocuk bir köpekle oynuyor	3.4	NEUTRAL
+2157	Kurulan bir kameranın resmi, gün batımında sahilde bir adam tarafından çekiliyor	Bir adam gölün fotoğraflarını çekiyor	3.0	NEUTRAL
+2166	Bir kadın bir makineyle dikiyor	Bir kadın dikiş için yapılmış bir makine kullanıyor	4.8	ENTAILMENT
+2221	Birisi attan düşüyor	Adam bir attan çıkarılmadı	3.9	NEUTRAL
+2229	Bir kadın parmaklarını masaya dokunuyor	Bir kadın parmaklarını masanın üzerinde dinliyor	4.1	NEUTRAL
+2231	Bir kadın parmaklarına dokunuyor	Bir kadın parmaklarını masanın üzerinde dinliyor	3.1	NEUTRAL
+2284	Kedi bir karpuzla tutkuyla oynuyor	Kedi bir karpuzla oynuyor	4.7	ENTAILMENT
+2286	Kedi bir karpuzla tutkuyla oynuyor	Bir kedi karpuz ile oynuyor	4.5	ENTAILMENT
+2362	Bir kişi bir darbe meşalesi ile bazı kameralar yakıyor	Uzun kişi kameralara ateş açıyor	3.8	NEUTRAL
+2364	Bazı kameralar darbe meşalesi olan bir kişi tarafından yakılıyor	Kişi kameralara ateş açıyor	4.2	ENTAILMENT
+2366	Bazı kameralardan biri yanan bir meşale esiyor	Kişi kameralara ateş açıyor	3.3	NEUTRAL
+2385	Bir kişi bir soğanı parçalara ayırıyor	Bir kişi bir havuçu parçalara ayırıyor	3.4	NEUTRAL
+2392	Adam patatesleri dilimlemiyor	Adam bir patates dilimliyor	2.7	CONTRADICTION
+2402	Birisi domates kesiyor	Kadın bütün bir domates tutuyor	3.5	NEUTRAL
+2404	Bayan domates dilimliyor	Domates kesen biri yok	3.0	CONTRADICTION
+2405	Bayan domates dilimliyor	Birisi domates kesiyor	4.7	ENTAILMENT
+2410	Bir adam biraz yemek hazırlıyor	Bir soğan kadın tarafından bıçakla dilimleniyor	1.3	NEUTRAL
+2430	Bir adam yolda koşuyor	Bir adam koşuyor	4.4	ENTAILMENT
+2476	Bazı insanlar şarkı söylüyor	Bir grup insan şarkı söylüyor	4.7	ENTAILMENT
+2485	Adam gitar çalıyor	Bir adam trompet çalıyor	2.2	NEUTRAL
+2525	Birkaç kişi bir sal üzerinde yüzüyor	İnsanlar bir sal biniyor ve kürek çekiyor	3.8	NEUTRAL
+2527	İnsanlar bir sal biniyor ve kürek çekiyor	Dört kişi bir sal üzerinde yüzüyor	4.2	NEUTRAL
+2535	Cob üzerinde mısır yiyen kedi yok	Bir kedi biraz mısır yiyor	2.5	NEUTRAL
+2544	Kişi bir sebzeyi dilimliyor	Kimse domates dilimlemiyor	3.1	NEUTRAL
+2557	Birisi gitar çalıyor	Birisi gitar çalıyor	4.5	ENTAILMENT
+2566	Üç kadın dans ediyor	Birkaç kadın dans ediyor	4.6	ENTAILMENT
+2604	Maymun tarafından bir boğa köpeği fırçalanıyor	Maymun bir boğa köpeği fırçalıyor	4.8	ENTAILMENT
+2606	Maymun bir boğa köpeği fırçalıyor	Bir boğa köpeği maymunu fırçalıyor	3.9	NEUTRAL
+2662	Bayan mikser için bir yumurta çatlamıyor	Bayan eti dilimliyor	2.335	NEUTRAL
+2668	Kafesten birkaç gelincik tırmanıyor	Gelincikler bir raftan aşağı iniyor	3.1	NEUTRAL
+2678	Bir adam aceleyle garajda arabaya giriyor	Bir adam arabaya giriyor	4.1	ENTAILMENT
+2679	Bir adam garajda bir arabayı park ediyor	Bir adam arabaya giriyor	3.4	NEUTRAL
+2687	Kişi bir karanfil sarımsak parçasını parçalara ayırıyor	Kişi bir karanfil sarımsak parçasını parçalara ayırmıyor	3.0	CONTRADICTION
+2704	Erişte bir kadın tarafından suda kaynatılıyor	Bir kadın suda erişte kaynatıyor	5.0	ENTAILMENT
+2712	Koruyucu boks eldivenleri giyen başka bir adama tekme atan karate uygulayıcısı yok	Bir karate uygulayıcısı koruyucu boks eldivenleri giyen başka bir adama tekmeliyor	4.3	CONTRADICTION
+2720	Adam bir eğitmenle tekme boks	Koruyucu boks eldivenleri giyen başka bir adama tekme atan karate uygulayıcısı yok	3.0	NEUTRAL
+2721	Adam bir eğitmenle tekme boks	Bir karate uygulayıcısı koruyucu boks eldivenleri giyen başka bir adama tekmeliyor	4.0	NEUTRAL
+2722	Oturan bir kadın şarkı söylüyor ve gitar çalıyor	Oturmuş bir kadın şarkı söylüyor ve gitar çalıyor	5.0	ENTAILMENT
+2726	Bir kaya üzerinde bir kadın battaniyenin üzerinde yatıyor ve bir kitap okuyor	Bir kadın kitap okuyan birine yatan bir battaniyenin üzerinde sallanıyor	2.7	NEUTRAL
+2738	Kadın elektro gitar çalmıyor	Bir adam akustik gitar çalıyor	3.0	NEUTRAL
+2766	Bir erkek ve kadın konuşuyor	Bir erkek ve bir kadın mutlu bir şekilde yiyor	2.6	NEUTRAL
+2772	Bir kişi bir tencereye pişirmek için yağ döküyor	Bir kişi bir tencereye yemek yağ döküyor	5.0	ENTAILMENT
+2791	Küçük olan bir kobay, yerde kemiriyor ve bir parça havuç yiyor	Küçük bir kobay, yerde bir parça havuç yiyor ve yemek yiyor	4.8	ENTAILMENT
+2795	Küçük bir kobay, yerde bir parça havuç yiyor ve yemek yiyor	Bir kobay bir havuç yiyor	4.5	ENTAILMENT
+2812	Bir uçak iniş	Animasyonlu bir uçak çıkıyor	2.7	NEUTRAL
+2822	Bir kadın bir kaseden karışımı alıyor	Bir kadın tavada yumurta hazırlıyor	2.7	NEUTRAL
+2829	Bayan göz farı üzerinde kalemle	Kadın göz farı üzerinde kalemle	5.0	ENTAILMENT
+2842	Küçük bir kız sahnede büyük bir piyano çalıyor	Bir kız piyano uyguluyor	3.8	NEUTRAL
+2886	Bir kadın flüt oynuyor	Kadın flüt oynamıyor	3.2	CONTRADICTION
+2898	Adam barbellleri kaldırıyor	Adam ağırlık kaldırıyor	4.3	ENTAILMENT
+2911	Bir kadın makyaj yapıyor	Makyaj yapan kadın yok	4.0	CONTRADICTION
+2932	Kadın bir havuç kesiyor	Bir soğan bir kadın tarafından dilimleniyor	2.4	NEUTRAL
+2936	İki adam sığır kaleminde savaşıyor	İki adam sığır kaleminin dışında	3.0	NEUTRAL
+2965	Büyük bir yeşil top bir patates eksik	Büyük bir yeşil top bir patates çalıyor	3.3	NEUTRAL
+2967	Büyük bir yeşil top bir patates vuruyor	Büyük yeşil renkli bir top bir patates vuruyor	4.8	ENTAILMENT
+2968	Büyük bir yeşil top bir patates eksik	Büyük bir yeşil top bir patates vuruyor	3.5	NEUTRAL
+2972	Büyük bir yeşil top bir patates vuruyor	Büyük bir yeşil top bir patates eksik	3.4	CONTRADICTION
+2996	Bir adam gitar çalıyor	Bir adam gitar bırakıyor	3.3	NEUTRAL
+3002	Bir kadın elektro gitar çalıyor	Bir adam gitar bırakıyor	2.3	NEUTRAL
+3036	Köpek plastik bir kap ile oynamıyor	Köpek plastik bir kap ile oynuyor	3.2	CONTRADICTION
+3061	Bir kadın araba sürüyor ve yanında oturan adamla konuşuyor	Araba süren ve yanında oturan adamla konuşan kadın yok	4.7	CONTRADICTION
+3107	Bir adam oturan bir gitar oyuncusu döşüyor	Bir adam bir odada yerde oturuyor ve bir gitar çalıyor	2.3	NEUTRAL
+3122	Bir kadın gözler için bir kalem kullanıyor ve göz kapağına göz astarı uyguluyor	Bir kadın göz kapağına kozmetik uyguluyor	4.6	ENTAILMENT
+3123	Göz kalemi kullanan ve göz kapısına göz astarı uygulayan kadın yok	Bir kadın göz kapağına kozmetik uyguluyor	3.1	CONTRADICTION
+3143	Bir maymun bir kişinin eldivenine tekmeliyor	Maymun dövüş sanatları uyguluyor	3.6	NEUTRAL
+3174	Bir çocuk bir enstrümanı atıyor	Genç bir çocuk rüzgar enstrümanı çalıyor	2.8	NEUTRAL
+3181	Bir adam ormanda trekking yapıyor	Adam ormanda yürüyüş yapmıyor	3.8	NEUTRAL
+3222	Köprü boyunca yürüyen bir çocuk yok	Bir çocuk bir köprüden yürüyor	3.7	CONTRADICTION
+3250	Bir kadın iki yumurtayı bir tencereye yerleştiriyor	Bir kadın bir tencereye iki yumurta koyuyor	4.9	ENTAILMENT
+3258	Bir adam gitar çalıyor	Kimse gitar çalmıyor	3.7	CONTRADICTION
+3275	Bir çocuk okyanusun dalgalarına girip çıkıyor	Bir çocuk okyanus dalgalarının içine girip çıkıyor	4.9	ENTAILMENT
+3291	Bir kadın havuç bırakıyor	Bir kadın domuz pirzolası kaplıyor	1.7	NEUTRAL
+3292	Bir kadın havuç ızgarıyor	Bir aşçı domuz pirzolasını kaplıyor	2.1	NEUTRAL
+3322	Kadın biraz ekmek ve kızarmış domuz eti	Bir kadın ekmekli bir domuz pirzolası pişiriyor	3.2	NEUTRAL
+3338	Bir çatı üzerinde duran ve keman çalan kimse yok	Bir adam çatı üzerinde duruyor ve keman çalıyor	3.4	CONTRADICTION
+3364	Bir kadın karides temizliyor	Kadın bir karides temizliyor	4.9	ENTAILMENT
+3373	Bir kadın su scooter'a biniyor	Bir kadın su için bir scooter sürüyor	4.1	ENTAILMENT
+3384	Bir panda ayısı biraz bambu yiyor	Bazı bambu bir panda ayı tarafından yeniliyor	4.8	ENTAILMENT
+3398	Birisi yumurtayı dövüyor	Kadın bir kasede yumurtaları karıştırmıyor	3.2	NEUTRAL
+3420	Bir kadın balığı kemiriyor	Büyük bir balık bir adamı yakalar	1.9	NEUTRAL
+3433	Bir tepsi bir kişi tarafından tereyağlanıyor	Bir kişi bir tepsiyi tereyağlandırıyor	5.0	ENTAILMENT
+3459	Adam bir baltayla bir ağaç gövdesini kesiyor	Bir adam bir baltayla kütük kesiyor	4.4	NEUTRAL
+3485	Kedi, levrek üzerindeki masadaki pencereden dışarı bakıyor	Masaya tünemiş kedi pencereden dışarı bakıyor	4.1	NEUTRAL
+3501	Bir köpek bir bebeği yalıyor	Köpek bebeği yalıyor	4.8	ENTAILMENT
+3505	Bir kadın sarımsaktan uzaklaşıyor	Bir kadın sarımsak kesiyor	3.6	NEUTRAL
+3518	Adam dans etmiyor	Bir kadın dans ediyor	3.3	NEUTRAL
+3536	Birisi bir tavada bamyayı pişiriyor	Bamya bir tavada pişiriliyor	4.9	ENTAILMENT
+3586	Bir adam davul çalıyor	Bir adam davul uyguluyor	4.6	ENTAILMENT
+3598	Bir adam zemin egzersizleri yapıyor	Bir adam egzersiz yapıyor	4.3	ENTAILMENT
+3625	Bir kadın eti tavaya koyuyor	Bir tavaya et koyan kadın yok	3.4	CONTRADICTION
+3626	Birisi eti tavaya bırakıyor	Et bir tavaya bırakılıyor	4.7	ENTAILMENT
+3657	Bir çocuk bir sürahiyi suyla dolduruyor	Bir sürahi bir erkek tarafından su ile dolduruluyor	5.0	ENTAILMENT
+3661	Bir kadın kupadaki bir musluktan suyu topluyor	Bir çocuk bir sürahiyi suyla dolduruyor	2.7	NEUTRAL
+3670	Yürüyen bir adam üzerine yağmur yağıyor	Bir adam yağmurda yürüyor	4.9	ENTAILMENT
+3680	Yarışçılar bir pistte koşuyor	Bir pistten aşağı koşan yarışçılar yok	3.7	CONTRADICTION
+3711	Bir oyuncak treni bir oyuncak arabaya çarpıyor	Bir oyuncak treni bir oyuncak arabası eksik	3.8	CONTRADICTION
+3721	Kişi soğan dilimliyor	Soğan kişi tarafından dilimleniyor	4.9	ENTAILMENT
+3733	Yüzücüler bir gölde yarışıyor	Bazı yarışçılar gölde yüzüyor	4.3	ENTAILMENT
+3747	Yetenekli bir adam gitar çalıyor	Bir kadın gitar çalıyor	3.2	NEUTRAL
+3790	Bir kişi bir kabak ovuyor	Kişi bir kabak ovuyor	5.0	ENTAILMENT
+3812	Bir kadın yeşil olan bir biberi dilimliyor	Bir kadın yeşil bir biber dilimliyor	4.8	ENTAILMENT
+3855	Bir adam bir yolun ortasında duruyor	Bir adam bir yolda yürüyor	3.2	NEUTRAL
+3861	Vahşi doğadan bir adam yürüyüş yolunda	Bir adam bir yolda yürüyor	3.4	NEUTRAL
+3862	Adam vahşi doğada bir yol boyunca yürüyor	Bir adam tembel bir şekilde yolda yürüyor	3.285	NEUTRAL
+3880	Bir adam bir odanın tavanında dans ediyor	Adam tavanda baş aşağı dans ediyor	4.4	ENTAILMENT
+3897	Egzersiz yapan kimse yok	Bir adam egzersiz yapıyor	3.4	CONTRADICTION
+3909	Adam şarkı söylüyor ve gitar çalıyor	Gitar bir adam tarafından oynanıyor	4.3	ENTAILMENT
+3910	Bir adam gitarı paketliyor	Adam şarkı söylüyor ve gitar çalıyor	3.4	NEUTRAL
+3922	Erkekler bazı insanların önünde dans etmiyor	Erkekler bazı insanların önünde dans ediyor	3.8	CONTRADICTION
+3941	Bir çocuk bir takvime bakıyor	Takvimi kontrol eden çocuk yok	3.9	CONTRADICTION
+3982	Bir kadın patates soyuyor	Bir kadın patates buzdolabında	3.7	NEUTRAL
+3996	Şarkı söyleyen ve gitar çalan bir adam yok	Bir çocuk piyano çalıyor	2.2	NEUTRAL
+4001	Bir adam pervasızca bir ipe tırmanıyor	Bir adam bir ipe tırmanıyor	4.3	ENTAILMENT
+4006	Bir adam bir ipe tırmanıyor	Adam bir ipe tırmanıyor	4.8	ENTAILMENT
+4011	Bir adam bir ipe tırmanıyor	Bir adam bir ipe tırmanıyor	4.8	ENTAILMENT
+4015	Bayan kanguru alıyor	Kadın kanguru alıyor	4.9	ENTAILMENT
+4031	Bir adam elleriyle fayans kırıyor	Eliyle tahta tahtaları kıran adam yok	2.9	NEUTRAL
+4054	Bir köpek yolda nefessizce koşuyor	Yolda bir köpek koşuyor	4.5	ENTAILMENT
+4060	Bir adam yolda koşuyor	Bir köpek yolda nefessizce koşuyor	2.6	NEUTRAL
+4066	Adam bir ağaçta bıçak fırlatıyor	Adam bir ağaca bıçak atıyor	4.6	ENTAILMENT
+4067	Adam bir ağaçtan bıçakları çıkarıyor	Adam bir ağaca bıçak atıyor	3.3	NEUTRAL
+4079	Bir adam ata biniyor	Bir adam ata biniyor	4.7	ENTAILMENT
+4086	Resim çizen bir adam yok	Bir adam bir resim çiziyor	3.9	CONTRADICTION
+4114	Yemek yiyen adam yok	Bir adam pizza yiyor	3.2	CONTRADICTION
+4135	Bir köpek bir trambolin üzerine zıplıyor	Bir köpek bir trambolin üzerine atlıyor	4.7	ENTAILMENT
+4140	Birkaç erkek tramboline atlıyor	Bir adam bir tramboline geri dönüyor	3.4	NEUTRAL
+4155	Bir adam ahşap bir flüt oynuyor	Ahşap bir flüt oynayan adam yok	3.7	CONTRADICTION
+4157	Piyano oynayan adam yok	Bir adam piyano çalıyor	4.0	CONTRADICTION
+4164	Adam tahtadaki çizimi siliyor	Kadın tahtadaki çizimi siliyor	3.7	NEUTRAL
+4187	Bir oyuncakla oynayan köpek yok	Bir köpek bir bebek yiyor	3.8	CONTRADICTION
+4191	Bir köpek bir bebek yiyor	Bir köpek oyuncakla oynuyor	3.6	NEUTRAL
+4196	Bir adam dans ediyor	Bir adam hararetle dua ediyor	1.7	NEUTRAL
+4288	Kadın pişmiş ahtapot dilimliyor	Bir kadın bir ahtapotu kesiyor	4.4	ENTAILMENT
+4321	Bir adam çiziyor	Çizim yok	3.8	CONTRADICTION
+4330	Adam çiziyor	Çizim yok	3.4	CONTRADICTION
+4342	Bir adam muz yiyor	Bir adam meyve yiyor	4.6	ENTAILMENT
+4360	Bir adam bir not kesiyor	Bir adam bir kağıdı kesiyor	4.4	ENTAILMENT
+4376	Bir adam gitar çalıyor	Piyano oynayan kimse yok	2.7	NEUTRAL
+4411	Bir yarıştaki iki adam bir traktörün lastiklerini çeviriyor	İki adam lastik haddeleme yarışında yarışıyor	3.7	NEUTRAL
+4429	Erkekler konuşuyor	Bazı yaşlı kadınlar konuşuyor	3.0	NEUTRAL
+4477	Bir adam bir futbol topunu yumrukluyor	Bir adam bir kasenin içeriğini karıştırıyor	1.2	NEUTRAL
+4505	Doktorlar bir adamı iyileştiriyor	Doktor hastaya yardım ediyor	4.2	ENTAILMENT
+4520	Gitar oynayan adam yok	Bir adam gitar çalıyor	3.6	CONTRADICTION
+4614	Araba kullanan bir adam yok	Bir adam araba kullanıyor	4.4	CONTRADICTION
+4638	Bir adam tarafından bir klavye çalınıyor	Bir adam bir arp oynuyor	2.4	NEUTRAL
+4650	Bir adam kılıçla kalın bir ip kesiyor	Kılıçla ip kesen bir adam yok	3.6	CONTRADICTION
+4661	Bir kadın patates dilimliyor	Bir kadın patates kesiyor	4.8	ENTAILMENT
+4707	Bir grup adam sahilde futbol oynuyor	Bir grup erkek sahilde futbol oynuyor	4.4	NEUTRAL
+4734	Bir adam bir susturucu bir tabancaya sığdırıyor	Bir adam silahına susturucu uyguluyor	4.8	ENTAILMENT
+4755	Kız kanepede oturuyor ve tığ işi yapıyor	Bir sahilde keman çalan kız yok	1.4	NEUTRAL
+4767	Bir adam bir yılan pişiriyor	Yılan pişiren adam yok	3.7	CONTRADICTION
+4776	Gitar çalan bir çocuk yok	Bir çocuk gitar çalıyor	3.8	CONTRADICTION
+4803	Hayvanat bahçesinde bir köpekle alay eden maymun yok	Bir maymun hayvanat bahçesinde bir köpekle alay ediyor	2.935	CONTRADICTION
+4814	Bir maymun bir köpeğin kuyruğunu çekiyor	Bir maymun hayvanat bahçesinde bir köpekle alay ediyor	4.4	NEUTRAL
+4816	Biraz zencefil kesen kimse yok	Bir kişi biraz zencefil kesiyor	3.8	CONTRADICTION
+4823	Bir kişi biraz zencefil kesiyor	Bir kişi bir soğanı dilimliyor	3.0	NEUTRAL
+4831	Bir adam patatesleri parçalara ayırıyor	Bir adam patates kesmiyor	4.0	CONTRADICTION
+4843	Bir adam bıçakla bir kutu açıyor	Bıçakla bir kutu açan bir adam yok	3.8	CONTRADICTION
+4851	Bazı enstrümanlar bir grup tarafından oynanıyor	Bir grup bazı enstrümanlar çalıyor	5.0	ENTAILMENT
+4852	Bir grup bazı enstrümanlar çalmıyor	Bir grup bazı enstrümanlar çalıyor	3.8	CONTRADICTION
+4866	Bir kişi dans ediyor	Bir kadın egzersiz yapıyor	3.0	NEUTRAL
+4891	Bir adam pull-up yapıyor	Adam bir spor salonunda egzersiz yapıyor	4.0	NEUTRAL
+4916	Bir adam şarkı söylüyor ve gitar çalıyor	Bir adam şarkı söylüyor ve müzik aleti çalıyor	4.5	ENTAILMENT
+4934	İşe alımlar bir memurla konuşuyor	Bir memur işe alımlarla konuşuyor	3.7	NEUTRAL
+4963	Sarımsak bir kadın tarafından doğranıyor	Bir kadın sarımsak kesiyor	4.7	ENTAILMENT
+4966	Bir kadın balık dilimliyor	Balık dilimleyen kadın yok	2.7	CONTRADICTION
+4983	Bir kadın ata biniyor	Bir at bir kadın tarafından bastırılıyor	5.0	ENTAILMENT
+5003	Büyük bir kedi, pençeleriyle plastik bir çekmeceyi açıyor ve içeri atlıyor	Bir kedi bir çekmece açıyor ve içeri atlıyor	4.4	ENTAILMENT
+5030	Adam telefonda konuşuyor	Adam telefonda konuşuyor	4.9	ENTAILMENT
+5047	Bir adam soğan kesiyor	Bir kadın soğanı kesiyor	3.5	NEUTRAL
+5051	Bir adam bir kapı açıyor	Kapı açan bir adam yok	3.6	CONTRADICTION
+5052	Bir adam tarafından bir kapı açılıyor	Bir adam soğanı kesiyor	1.2	NEUTRAL
+5082	Bir kadın keman çalıyor	Piyano oynayan adam yok	2.1	NEUTRAL
+5110	Bir şef biraz yemek hazırlıyor	Bir şef yemek hazırlıyor	4.8	ENTAILMENT
+5113	İki Sumo Ringer savaşıyor	İki sumo güreşçisi savaşıyor	4.0	ENTAILMENT
+5119	İki Sumo Ringer savaşıyor	Bir adam su içinde su oyuncağı sürüyor	1.0	NEUTRAL
+5148	Bir adam bir parça ekmeği tereyağlandırıyor	Bir kadın bir parça ekmeği tereyağlandırıyor	3.5	NEUTRAL
+5203	Kadın makarnayı bir yemeğe koyuyor	Makarna bir kadın tarafından bir yemeğe konuyor	5.0	ENTAILMENT
+5206	Bir kadın bir kaseden biraz yapışkan goo çekiyor	Kadın makarnayı bir yemeğe koymuyor	2.2	NEUTRAL
+5310	Flüt oynayan kız yok	Bir kız flüt oynuyor	3.6	CONTRADICTION
+5349	Bir adam tarafından büyük bir flüt çalınıyor	Bir adam flüt oynuyor	4.3	ENTAILMENT
+5352	Bir adam büyük bir flüt oynuyor	Flüt oynayan bir adam yok	4.1	CONTRADICTION
+5374	Bir ahtapot bir kadın tarafından dilimleniyor	Bir kadın bir ahtapotu dilimliyor	5.0	ENTAILMENT
+5454	Bir adam flüt oynuyor	Bir adam flüt oynamıyor	4.2	CONTRADICTION
+5461	Bir kadın flüt oynuyor	Bir adam flüt oynuyor	3.7	NEUTRAL
+5498	Bir kadın limon kesiyor	Bir kadın meyve kesiyor	4.2	ENTAILMENT
+5540	Bir grup insan bir şovda dans ediyor	Bir grup insan yürüyor	2.3	NEUTRAL
+5588	Bir kız tarafından bir cupcake yeniyor	Bir kız kek yiyor	5.0	ENTAILMENT
+5657	Bir kişi bir restoranda yemek yiyor	Bir kişi yatak yapıyor	1.2	NEUTRAL
+5698	Aşçı pizza üzerine peynir serpiyor	Adam pizzaya peynir serpiyor	4.0	NEUTRAL
+5706	Bir adam bir av tüfeğini yeniden yüklüyor	Bir adam bir av tüfeği ateş ediyor	3.7	NEUTRAL
+5745	Bir kaplan yavrusu bir topla oynuyor	Bir bebek bir bebekle oynuyor	1.4	NEUTRAL
+5747	Bir bebek oyuncakla oynuyor	Bir bebek kaplanı bir topla oynuyor	3.2	NEUTRAL
+5799	Bir kişi bir patates soyuyor	Bir kişi tarafından bir patates soyuluyor	5.0	ENTAILMENT
+5806	Bir adam kano kürek çekiyor	Bir adam bir tekne kürek çekiyor	4.2	ENTAILMENT
+5904	Bir erkek ve bir kadın bir cipte sokakta sürüyor	Bir erkek ve bir kadın açık hava aracında yoldan aşağı iniyor	4.0	NEUTRAL
+5909	Bir kadın malzemeleri bir kaseye döküyor	Şef yağı baharat ediyor	3.1	NEUTRAL
+5914	Bir kişi bir kişi tarafından bastırılıyor	Bir kişi ata biniyor	5.0	ENTAILMENT
+5920	Bir kişi bir kişi tarafından bastırılıyor	Bir kadın patates dilimliyor	1.0	NEUTRAL
+5924	Adam egzersiz yapmıyor	Adam egzersiz yapıyor	3.8	CONTRADICTION
+5930	Adam egzersiz yapmıyor	İki adam savaşıyor	2.3	NEUTRAL
+5938	Sebzeler bir adam tarafından bir tencereye konuyor	Birisi malzemeleri bir tencereye döküyor	4.0	ENTAILMENT
+5955	Bir köpek kirde bir top bırakıyor	Bir köpek bir topu kirden geçiriyor	3.7	NEUTRAL
+6001	Suda duran kahverengi köpek yok	Altın kürklü bir köpek suda	2.8	NEUTRAL
+6005	Mavi gömlekli genç bir kız kaldırımda yürüyor ve pembe bir işaret tutuyor	Pembe bir işaretle genç bir kız mavi bir gömlek tutuyor ve kaldırımda yürüyor	3.4	NEUTRAL
+6042	Küçük çocuk suda yürüyor ve başka bir kişi tarafından yönlendiriliyor	Küçük bir çocuk suya sıçrıyor	3.4	NEUTRAL
+6047	Bir erkek ve bir kadın, koyu renkli gömlekler giyen bej boyalı bir odada ve arka planda bir monitör var	Bir erkek ve bir kadın bej bir odada, koyu renkli gömlekler giyiyor ve arka planda bir monitör var	5.0	ENTAILMENT
+6078	Kot giyen bir kişi, at eyerinin tepesinde mutlu bir şekilde oturuyor	Kot pantolonundaki bir kadın atın eyerinde oturuyor	4.2	NEUTRAL
+6119	Kahverengi ve beyaz bir köpek ağzında bir beyzbol tutuyor	Siyah beyaz bir köpek ağzından bir beyzbol atıyor	3.3	NEUTRAL
+6131	Kırmızı mayo giyen genç bir çocuk mavi çocuk havuzuna atlıyor	Kırmızı şort giyen bir çocuk kürek havuzuna atlıyor	4.0	NEUTRAL
+6146	Okyanusta iki kişi duruyor ve gün batımını izliyor	Kimse okyanusta durmuyor ve gün batımını izlemiyor	2.5	CONTRADICTION
+6153	Bir yarış arabası sürücüsü ayağa kalkıyor ve elini gökyüzüne işaret ediyor	Bir yarış arabası sürücüsü oturuyor ve hareketsiz	3.0	NEUTRAL
+6158	Bir yarış arabası sürücüsü ayağa kalkıyor ve elini gökyüzüne şiddetle işaret ediyor	Mavi ceketli kişi renkli bir kask giyiyor	1.6	NEUTRAL
+6203	Bir bisikletçi bir grup insanda başının üstünde bir bisiklet tutuyor	Bisikletle bir grup insanın kafaları üzerinde bir bisikletçi tutuluyor	3.4	NEUTRAL
+6213	Bir adam gün batımının önünde, bayrağın yakınında bir teknede oturuyor	Bir adam bir bayrağın yakınında gün batımının önünde bir teknede duruyor	3.8	NEUTRAL
+6219	Bir adam bir bayrağın yakınında gün batımının önünde bir teknede duruyor	Bir adam gün batımının önünde bir teknede	4.1	ENTAILMENT
+6228	Bir drag yarışındaki insanlar arabalardan çıkan alevlerden kaçıyor	Kalabalık başlangıç çizgisini terk eden iki yarış arabasını izliyor	2.6	NEUTRAL
+6231	İki köpek çim üzerinde birlikte oynuyor	İki köpek çimlerde birlikte dinleniyor	3.3	NEUTRAL
+6280	Siyah olan bir köpek, çimlerde koşuyor	Siyah bir köpek çimlerde koşuyor	5.0	ENTAILMENT
+6287	Siyah bir köpek çimlerde koşuyor ve dili takılıyor	Siyah bir köpek çimlerde koşuyor	4.9	ENTAILMENT
+6315	Sarı bir köpek çok güneşli bir günde beyaz karda koşuyor	Sarı bir köpek güneşli bir günde beyaz karda koşuyor	4.6	ENTAILMENT
+6330	Bir kız kot pantolon ve pembe bir gömlek giyiyor ve koşuyor	Pembe gömlekli küçük bir çocuk çölde bir ağacın altında koşuyor	2.8	NEUTRAL
+6344	Beyaz bir köpek, Noel ren geyiği kafa bandı giyiyor ve çimlerde kahverengi bir köpekle oynuyor	Köpek kulakları giyen beyaz ren geyiği kahverengi bir ren geyiğine yakındır	2.2	NEUTRAL
+6358	Kırmızı kostümdeki kadın bir tuğla duvara yaslanıyor ve bir enstrüman çalıyor	Kırmızı kostümdeki kadın bir tuğla duvara yaslanmıyor ve bir enstrüman çalmıyor	3.2	CONTRADICTION
+6394	Bir şelale sığ bir havuza akıyor	İnsanlar güzel bir şelalenin yanında yolda yürüyorlar	2.3	NEUTRAL
+6396	Bir köpek tozlu bir çiftliğe bir paket beyaz koyun dağıtır	Bir köpek, tozlu bir çiftlikte bir paket beyaz koyun sürüsü sürüyor	3.8	NEUTRAL
+6450	Küçük bir çocuk sarı bir tank üstü giyiyor ve gülüyor	Gülen bir çocuk sarı bir tankta ve üst giyiyor	3.5	NEUTRAL
+6482	Kişi beyaz buz üzerinde durmuyor	Bir kişi geniş bir buzul buz alanında duruyor	3.1	NEUTRAL
+6544	Buz hokeyi kalecisi sarı bir forma giyiyor ve hedefi savunuyor	Sarı bir forma içinde hedefi koruyan hokey oyuncusu yok	4.0	CONTRADICTION
+6568	Bir kadın mavi kask giyiyor ve bir otoparkta bisiklet sürüyor	Bir kadın mavi bisiklet park ediyor ve çok sayıda binicilik kask giyiyor	3.1	NEUTRAL
+6590	Genç bir kız bir bacağında duruyor	Genç bir kadın dans ediyor	3.3	NEUTRAL
+6592	Genç bir kız bir bacağında duruyor	Genç bir kız dans ediyor	2.7	NEUTRAL
+6598	Bir arı sarı bir çiçeğe yapışıyor	Bir sürü sarı çiçek üzerine küçük arı iniş yok	3.9	NEUTRAL
+6625	Bir tarladan geçen bej lekeleri olan beyaz köpek yok	Bir bronz köpek fırçanın içinden geçiyor	2.7	NEUTRAL
+6634	Sırtında bir binici olan bir at tarafından bir engel atlanıyor	Bir at ve binicisi bir bariyerin üzerinden atlıyor	4.5	ENTAILMENT
+6649	İki genç kız bir etkinlikte süslü elbiseler giyiyor	Gençlerindeki iki kız bir etkinlikte süslü elbiseler giyiyor	4.8	ENTAILMENT
+6673	Öğrencilerle dolu bir sınıf, bir bambu yapısının içinde aynı yöne bakıyor	Üniformalı bir grup öğrenci, sınıfın önünde dikkatle dinliyor	2.8	NEUTRAL
+6705	Küçük olan bir çocuk, dışarıda çim dolu bir alanda açık havada tırmanma adımları	Küçük bir çocuk, çimenli bir alanda açık havada tırmanıyor	4.9	ENTAILMENT
+6709	Pembe bir kazaktaki küçük bir çocuk beton bir merdivene tırmanıyor	Küçük bir çocuk, çimenli bir alanda açık havada tırmanıyor	3.5	NEUTRAL
+6729	Orange'daki bir çocuk dışarıda bir kartopu ile oynuyor	Bir çocuk tarafından bir kar topu yapılıyor	3.3	NEUTRAL
+6740	İnsanlar bir restoranın önünde bir bankta oturmuyor	Üç kişi bazı palmiye ağaçlarının altında bir bankta oturuyor	3.2	NEUTRAL
+6756	Büyük kahverengi bir köpek ve küçük gri bir köpek kayalık bir yüzeyde duruyor	Büyük kahverengi bir köpek ve küçük gri bir köpek kayalık bir yüzeyde duruyor	4.8	ENTAILMENT
+6764	Üç erkek bir nehir boyunca kayaların üzerinde dinleniyor	Üç erkek bir nehir boyunca kayalarda yürüyor	3.8	NEUTRAL
+6784	Ayrıntılı bir siyah maske giyen siyah giyinmiş adam yok	Siyah giyinmiş bir adam ayrıntılı bir siyah maske giyiyor	3.4	CONTRADICTION
+6849	Küçük olan iki çocuk sokakta bir oyuncak arabasıyla oynuyor	Bir baba kızını bir go-kart üzerine itiyor ve başka bir kız izliyor	2.2	NEUTRAL
+6866	Altın bir köpek, uzun bir ot tarlasından geçiyor	Uzun yeşil çimlerin içinden geçen kahverengi köpek yok	4.0	NEUTRAL
+6912	Beyaz ve mavi şapkalı mavi ve beyaz üniforma giyen kadın ağzını açık tutuyor ve aynı şekilde giyinmiş diğerlerinin yakınında	Bir kadın beyaz yelek ve beyaz kapaklı mavi bir gömlek giyiyor ve konuşuyor ve yürüyüş yapıyor	3.4	NEUTRAL
+6932	Snowboardcu bir höyük kar üzerinde bir çeviriyor	Birisi bir tahtada havaya atlıyor	3.8	ENTAILMENT
+6955	Yeşil sarışın bir çocuk salıncakta oturuyor	Sarı saçlı ve salıncakta oturan küçük kız yok	3.185	NEUTRAL
+6961	Beyaz bir adam bir şapka ve çalma gitar çiziyor	Beyaz şapkalı bir adam sahnede gitar çalıyor	3.0	NEUTRAL
+6971	Kırmızı üniformalı bir adam yok, kir bisiklet yarışında sıçrama yapıyor	Kırmızı üniformalı bir adam kir bisiklet yarışında bir sıçrama yapıyor	3.4	CONTRADICTION
+7002	Rugby oyuncuları birbirleriyle mücadele etmiyor	Bir futbolcu rakibi tarafından ele alınıyor	2.5	NEUTRAL
+7007	Beyaz bir köpek düşmüş yapraklarda duruyor	Beyaz bir köpek düşmüş yapraklarda yatıyor	3.8	NEUTRAL
+7018	Giysilerde açık renkli bir çocuk kolları dışa doğru uzanır	Açık renkli giysili bir çocuk kolları dışa doğru uzanıyor	5.0	ENTAILMENT
+7027	Erkek ve kız bir oyun alanında oynamıyor	Erkek ve kız açık hava spor salonunda oynuyor	3.0	NEUTRAL
+7043	Motokros binici çıplak duruyor	Mavi ceketli bir motorcu, siyah pantolon ve beyaz kask kir üzerinde sürüyor ve insanlar izliyor	2.6	NEUTRAL
+7044	Mavi ve siyah motokros bisikletindeki binici pantolon giymiyor	Mavi ceketli bir motorcu, siyah pantolon ve beyaz kask kir üzerinde sürüyor ve insanlar izliyor	3.2	NEUTRAL
+7064	Bir rampada bir rollerblader tarafından bir numara yapılır	Bir rollerblader bir rampada bir hile yapıyor	5.0	ENTAILMENT
+7088	Bir grup futbolcu hala sahada duruyor	Kalabalık bir futbol maçı izliyor	2.6	NEUTRAL
+7093	Bir grup insan birlikte duruyor ve kameraya bakıyor	Bir grup insan birlikte duruyor ve kameraya bakıyor	5.0	ENTAILMENT
+7214	Kahverengi bir köpek avlunun karşısında bir oyuncak ağzında koşuyor	Ağzında bir oyuncak olan bahçede koşan kahverengi köpek yok	3.8	CONTRADICTION
+7228	Dizleri bükülmüş ve kolları yayılmış havada atlayan genç bir çocuk yok	Yeşil gömleği olan bir kişi çimlerin üzerine zıplıyor	2.6	NEUTRAL
+7311	Hasır şapkadaki adam tarafından sigara içiliyor	Bir adam hasır şapka giyiyor ve sigara içiyor	4.8	ENTAILMENT
+7319	Bir adam uzun kollu ve kot pantolonlu mavi bir gömlek giyiyor ve bir sokakta tek tekerlekli bisiklete biniyor	Bir adam mavi damalı bir gömlek giyiyor ve sokakta tek tekerlekli bisiklet sürüyor	4.3	NEUTRAL
+7356	Küçük çocuklar parkta bir heykel tırmanıyor	Bir heykelde iki çocuk oynuyor	4.1	NEUTRAL
+7363	Sarışın bir bayan tarafından bir kule bakılıyor	Bir kadın bir şehrin manzarasına bakıyor	3.3	NEUTRAL
+7374	Bir adam, arkalarında bulutlar olan kayaların tepesinde duruyor	Birisi dağın tepesinde duruyor	3.1	NEUTRAL
+7394	Bir çocuk kamerada gülümsüyor ve su altında yüzüyor	Bir çocuk bir havuzda su altında yüzüyor	4.1	NEUTRAL
+7410	Amerikalı bir futbolcu kırmızı ve beyaz şerit giyiyor	Bir futbolcu siyah kol bantları giyiyor	2.4	NEUTRAL
+7445	Küçük kız sallanıyor ve kadın onun arkasında duruyor	Küçük olan kız sallanıyor ve kadın arkasında duruyor	4.9	ENTAILMENT
+7448	Küçük bir çocuk parkta bir salıncakta heyecan gösteriyor	Küçük olan kız sallanıyor ve kadın arkasında duruyor	3.6	NEUTRAL
+7464	Bir sörfçü dalgaya biniyor	Bir adam suda bir sörf tahtasından düşüyor	3.5	NEUTRAL
+7466	İnsan grubu loş bir odada oturuyor	İnsan grubu loş bir odada oturuyor	4.9	ENTAILMENT
+7471	Karanlık bir odadaki bir erkek ve iki kadın mumlarla bir masada oturuyor	İnsan grubu loş bir odada oturuyor	3.6	ENTAILMENT
+7475	Karanlık bir odada bir erkek ve iki kadın mumlarla bir masada oturuyor	Loş insan grubu bir odada oturuyor	2.5	NEUTRAL
+7477	Beyaz gömlek ve güneş gözlükleri ve siyah gömlek ve güneş gözlüğü içinde bir adam dört şişe bira ile bir masada oturuyor	Beyaz gömlek ve güneş gözlükleri ve siyah gömlek ve güneş gözlüğü içinde bir adam dört bira şişesi ile bir masada oturuyor	4.9	ENTAILMENT
+7501	Kadın kırmızı ceket giymiyor ve beyaz bir tişörtle adamın önünde bir bardak tutmuyor	Bir kişi kırmızı ceket giyiyor ve bira tutuyor	2.4	NEUTRAL
+7533	Bir çocuk dışarıda oynayan birini izliyor ve ailesinin geri kalanında su atıyor	Bir çocuk bir erkeğin yanında bir hortum tutuyor ve başka bir çocuk izliyor	3.0	NEUTRAL
+7541	Mor Jersey'de bir gol için topla koşan futbolcu yok	Bir futbolcu futbol taşıyan bir yetkilinin yanından geçiyor	3.3	NEUTRAL
+7544	Bir futbolcu, bir futbolun yanında bir resmi taşıyor	Mor Jersey'deki bir futbolcu bir gol için topla koşuyor	2.9	NEUTRAL
+7546	Mavi Leotard'daki genç bir kız havada atlıyor	Mavi renkte leotardlı genç bir kız havada atlıyor	5.0	ENTAILMENT
+7548	Mavi olan genç kız havada atlıyor	Mavi olan genç bir kız havada atlıyor	5.0	ENTAILMENT
+7582	Bir grup adam çamurla dolu bir tarlada ragbi oynuyor	Bazı erkekler ragbi oynuyor	4.5	ENTAILMENT
+7590	Bir kişi yanında yatan motokros için tasarlanmış bir bisiklete bakıyor ve diğeri yarışıyor	Bisiklet sürücüsü başka bir bisiklet sürücüsünün kazasına bakıyor	3.1	NEUTRAL
+7649	Yeşil futbol şerit giyen ve çimlerin üzerinde koşan küçük bir çocuk yok	Küçük bir çocuk yeşil bir futbol şeridi giyiyor ve çimlerin üzerinde koşuyor	3.6	CONTRADICTION
+7667	Plajdaki adam, suyun kenarındaki ıslak kumda bir amuda yapmıyor	Adam sahilde suyun kenarındaki ıslak kumda bir amuda yapıyor	3.7	CONTRADICTION
+7677	Genç bir anne oğluyla parkta oynuyor	Annesiyle birlikte parkta genç bir çocuk oynuyor	4.5	ENTAILMENT
+7718	Bir adam bir köpeğin ağzına süper daha ürkütücü püskürtüyor	Bir köpeğin ağzına süper daha kötü püsküren kimse yok	3.8	CONTRADICTION
+7720	Bir köpeğin ağzına süper daha kötü püsküren kimse yok	Bir adam su fışkırtma tabancasıyla beyaz bir köpeğin ağzına su fışkırıyor	2.9	NEUTRAL
+7726	Mavi ceket giyen babası tarafından şemsiye altında bir çocuk tutuluyor	Mavi ceket giyen bir çocuk, babası tarafından bir şemsiye altında tutuluyor	4.3	NEUTRAL
+7734	Mavi ceket giyen babası tarafından şemsiye altında bir çocuk tutuluyor	Bir çocuk yeni bir dünya yaşıyor	1.5	NEUTRAL
+7743	Bir köpek karla kaplı bir plajda yalnız oynuyor	Bir köpek bir kar yağışı boyunca yürüyor	3.2	NEUTRAL
+7772	Bir sörfçü koyu yeşil su boyunca büyük bir dalga sürüyor	Sörfçü küçük bir dalga sürüyor	3.9	CONTRADICTION
+7795	Solda bir tenis oyuncusu akciğer	Bir tenis oyuncusu sola atlıyor	4.4	ENTAILMENT
+7820	İki köpek suya sıçrayan bir şeye bakıyor	Bazı köpekler bir akarsuda oynamıyor	3.7	NEUTRAL
+7877	Mavi kovboy şapkalı bir adam beyaz ata biniyor	Mavi bir adam toprak yolda ata biniyor	3.9	NEUTRAL
+7889	İki beyaz köpek kahverengi bir köpek ve tenis topu ile oynuyor	İki beyaz köpek kahverengi bir köpek ve bir topla oynuyor	4.7	ENTAILMENT
+7932	Pembe ceketli bir kişi sahaya koşuyor	Dört sporcu kalabalık bir stadyumda bir kadınla	2.0	NEUTRAL
+7937	Zarif kıyafetler giymiş bir kadın, bir kalabalığın içinde ve yukarı bakıyor	Zarif kıyafetler giymiş bir kadın, bir kalabalığın içinde ve aşağı bakıyor	3.1	NEUTRAL
+7938	Asyalı bir kadın kürk eşarp tutuyor	Zarif bir kadın bir kalabalığın içinde ve aşağıya bakıyor	2.2	NEUTRAL
+7947	Beyaz tişörtlü bir çocuk sığ suya sıçrar	Plajda sudan bir çocuk koşuyor	3.4	NEUTRAL
+7950	Bir kız sahilde suyun içinden geçiyor	Beyaz tişörtlü bir çocuk sığ suya sıçrıyor	2.3	NEUTRAL
+7951	Beyaz tişörtlü bir çocuk sığ suya sıçrıyor	Plajda sudan bir çocuk koşuyor	3.5	NEUTRAL
+7997	Çocuklar takım elbise giymiyor ve su sıçramıyor	Yüzme takımlarındaki çocuklar suda oynuyor	2.8	NEUTRAL
+8057	Genç bir kız mavi desenli bir mayo giyiyor, siyah ve sarı bir yüzme kapağı ve kafasında mavi yüzme gözlükleri var	Küçük bir kız mavi desenli bir mayo, siyah ve sarı yüzme kapağı giyiyor ve kafasında mavi yüzme gözlükleri var	4.8	ENTAILMENT
+8122	Bir kadın amigo kızı bir erkek amigo kızının dizinde oturuyor	Bazı ponpon kızlar dinleniyor	3.0	NEUTRAL
+8138	Kızın kızıl saçları ve kaşları var, kulakta birkaç piercing ve arkada bir çizim	Kızın kızıl saçları ve kaşları, kulakta birkaç piercing ve arkada dövme var	4.4	ENTAILMENT
+8141	Kızın kızıl saçları ve kaşları var, kulakta birkaç piercing ve arkada dövme yok	Kızıl saçlı ve kırmızı kaşları olan bir kız ortada	3.0	NEUTRAL
+8163	İki kişi bir cip sürüyor ve üstünde bir bayan oturuyor	İki kişi bir cip sürüyor ve üstünde bir kız oturuyor	4.8	ENTAILMENT
+8193	Yetişkinler ve çocuklar bir açık hava oturma düzenlemesinin yakınında toplanmaz	Yetişkinler ve çocuklar bir açık hava oturma düzenlemesinin yakınında toplanıyor	4.4	CONTRADICTION
+8212	Bir kızın yanaklarda renkli yamalar var	Bir kız bir grupta duruyor ve siyah gömlek ve pembe boncuklar giyiyor	2.4	NEUTRAL
+8220	İki köpek sudan geçiyor	İki köpek yüksek çimden geçiyor	3.335	NEUTRAL
+8263	Bazı insanlar ve araçlar kalabalık bir sokakta	Bazı insanlar ve araçlar neredeyse boş bir sokakta	4.2	CONTRADICTION
+8313	Boyalı yüzü olan genç bir kız diğer bazı çocukların yanında duruyor	Çocuklar kostüm giyiyor ve bir oyun oynuyor	3.1	NEUTRAL
+8326	Bir su kütlesinin önünde bmx bisikletçinin atlama kir rampaları yok	İki BMX bisikletçisi bir su kütlesinin önüne kir rampaları atlıyor	4.4	CONTRADICTION
+8334	Bir adam kaykayda bir numara yapıyor	Bir kişi bir kaykayda hile yapıyor	4.4	ENTAILMENT
+8343	Motokros üniformalı bir adam kask takıyor ve kırmızı motosiklet sürüyor	Motokros üniformalı bir kişi kask takıyor ve kırmızı motosiklet sürüyor	4.8	ENTAILMENT
+8362	Çizgili bir gömlekli bir çocuk su çeşmesinin arkasına atlıyor	Çizgili bir gömlekli bir çocuk su çeşmesinin önüne atlıyor	4.2	NEUTRAL
+8375	İki büyük köpek, açık renkli bir ve karanlık bir köpek, karlı bir arazide uyuyor	İki köpek karlı çim ve kayalardan sıçrıyor	2.4	NEUTRAL
+8383	Mavi bir kız yeşil bir slayt aşağı kayıyor	Blue'daki genç kız bir slaydın tadını çıkarıyor	4.3	ENTAILMENT
+8389	Beyaz bir adam büyük bir şehirdeki bir binanın yanında yürüyor	Büyük bir şehirdeki bir binanın yanında siyah bir adam yürüyor	3.3	NEUTRAL
+8461	Şapkası olmayan bir adam yerde oturuyor	Geriye doğru şapkası olan bir adam yerde oturuyor	4.0	NEUTRAL
+8471	Mavi kazakta bir kız çok renkli bir oyuncak tutuyor ve gri saçlı yaşlı bir adamın omuzlarında oturuyor	Mavi kazakta bir kız çok renkli bir oyuncak tutuyor ve gri saçlı bir adamın omuzlarında oturuyor	4.6	ENTAILMENT
+8500	Adam suya giriyor	Kişi denize giriyor	4.1	NEUTRAL
+8505	İki kişi güneşli bir günde bir park bankında oturuyor	Sıcak bir günde iki kişi bir park bankında oturuyor	4.3	NEUTRAL
+8548	Çocuk büyük kırmızı havuzda su sıçramıyor	Bir yürümeye başlayan çocuk mavi kürek havuzunun içinde bir sıçrama yapıyor	3.1	NEUTRAL
+8558	Gri ipeksi bir köpek çimen içinde yatıyor ve kahverengi bir köpek bakıyor	Kahverengi köpek kuru otlarda yatan siyah bir köpek tespit ediyor	3.2	NEUTRAL
+8576	Siyah bir köpek ve küçük beyaz ve siyah bir köpek mutfak tezgahına bakıyor	Büyük bir köpek ve küçük bir köpek mutfak tezgahının yanında duruyor ve araştırıyor	4.2	ENTAILMENT
+8632	Bir adam kaya tırmanışı değil ve bir şehir ve koy arka planda	Bir adam kaya tırmanışı ve bir şehir ve bir koy arka planda	4.4	CONTRADICTION
+8633	Bir adam rotayı kaya tırmanışı, duraklaması ve hesaplamasıdır	Bir adam rotayı kaya tırmanıyor, durduruyor ve hesaplıyor	4.8	ENTAILMENT
+8658	Hiçbir grup insan fuarda bir standda toplanmıyor	İnsanlar bir karnavalda duruyor	3.8	NEUTRAL
+8660	Bir grup rollerblader sokakta sıraya giriyor	Bir grup rollerblader yolda sıraya giriyor	4.9	ENTAILMENT
+8678	Bir kaykaycı bir rampadan atlıyor	Bir kaykaycı bir rampadan atlıyor	4.8	ENTAILMENT
+8700	Siyah ve turuncu bir kuş çimlerde duruyor	Sarı gagalı siyah kuş yeşil çimlerde duruyor	4.0	NEUTRAL
+8714	İki beyaz köpek hızla birlikte koşuyor	İki beyaz köpek birlikte koşuyor	4.6	ENTAILMENT
+8727	Bir grup insan ses karıştırma masasının etrafında duruyor	Bazı insanlar ses ekipmanlarına bakıyor	3.5	ENTAILMENT
+8786	Bir kız kaldırımda ip atlıyor	Bir kız sokağa yakın bir ip atlıyor	4.3	ENTAILMENT
+8792	Bir kız bir garajın yakınındaki kaldırıma ip atlıyor	Bir kız sokağa yakın bir ip atlıyor	3.7	NEUTRAL
+8806	Bir köpek su kütlesinde yüzüyor	Bir hayvan su kütlesinde yüzüyor	4.5	ENTAILMENT
+8832	Bir kadın balkon çıkıntısına yaslanıyor	Bir adam bir balkon çıkıntısına yaslanıyor	3.8	NEUTRAL
+8841	Küçük beyaz bir köpek bir çim boyunca koşuyor	Büyük beyaz bir köpek bir çim boyunca koşuyor	3.1	NEUTRAL
+8855	Köpek tasmalı ve suyun yanında yürüyor	Tasma üzerine siyah bir köpek suda yürüyor	4.5	NEUTRAL
+8938	Portakal şortlu bir çocuk suyun üzerinde bir kaya uçurumunda duruyor ve siyah şortlu diğer çocuk suya atlıyor	İki erkek uçurum kenarında duruyor ve biri suya atlıyor	4.0	NEUTRAL
+8963	Küçük bir grup insan duruyor ve ikisi kanepede oturuyor	Beş genç yetişkinden oluşan bir grup içeride uzanıyor	3.8	NEUTRAL
+8986	Bir bikinili genç bir kız sahilde atlıyor	Yüzme süitindeki genç bir kız sahilde atlıyor	4.4	ENTAILMENT
+9014	Sarışın bir çocuk bir slayt aşağı iniyor ve kollarını atıyor	Koyu saçlı bir çocuk slayt aşağı iniyor ve kollarını atıyor	3.7	CONTRADICTION
+9029	Bir ormanda iki köpek oynuyor	Kahverengi bir köpek, kayalık bir kıyıda siyah bir köpeğin peşinde koşuyor	2.3	NEUTRAL
+9036	Beyaz bir köpek çakıl plajında altın bir köpeğe yaklaşıyor	İki köpek kayalık bir plajda oynuyor	2.9	NEUTRAL
+9056	İki genç kız şapka takıyor ve renkli dillerini yapıştırıyor	İki çocuk mavi ve yeşil renkli diller yapışıyor	3.6	NEUTRAL
+9069	Plaja yakın okyanusta iki erkek yatıyor	Plaja yakın suda iki erkek yatıyor	4.4	ENTAILMENT
+9093	Büyük bir adam bir askeri aksesuar mağazasında oturuyor	Bir emektar, bir savaştan bazı insanlara farklı şeyler gösteriyor	2.8	NEUTRAL
+9102	Mavi yakalı bir köpek dışarıda topla oynuyor	Gri bir köpek, bir çim tarlasında kafasına bir futbol topu zıplıyor	3.4	NEUTRAL
+9125	Elinde Hint kıyafetleri ve kına olan genç bir kadın evrak işlerinden geçiyor	Bir kadın renkli bir gömlek ve çok mücevher giyiyor	2.4	NEUTRAL
+9132	Bir forma siyah olan bir adam bir spor salonunda duruyor	Siyah forma olan bir adam bir spor salonunda duruyor	4.9	ENTAILMENT
+9136	Siyah forma olan bir adam bir spor salonunda duruyor	Bir adam bir spor salonunda duruyor ve bir forma giyiyor	4.5	ENTAILMENT
+9169	Kaldırımda biraz kahverengi ve beyaz bir köpek çalışıyor	Biraz kahverengi ve beyaz bir köpek yolda koşuyor	3.7	NEUTRAL
+9188	Bir köpek çimleri açıyor ve uçan bir tenis topu takip ediyor	Sarı bir köpek bir topu kovalıyor	4.4	NEUTRAL
+9198	Mavi kot pantolonlu bir kadın, taş yapılı bir evin yanında bir grup çocuğun önünde duruyor	Hiçbir bayan sokakta durmuyor ve okul çocukları tarafından çevrili	3.2	NEUTRAL
+9200	Bir bayan sokakta duruyor ve okul çocukları tarafından çevrili	Mavi kot pantolonlu bir adam, taş yapılı bir evin yanında bir grup çocuğun önünde duruyor	2.0	NEUTRAL
+9211	Bir adam ahşapta havaya sıçrıyor	Bir adam ormanlık bir alanda havaya sıçrıyor	4.3	NEUTRAL
+9224	Bir köpek topla koşuyor	Siyah köpek ağzına mavi ve beyaz bir top taşıyor	4.0	NEUTRAL
+9242	Mavi Adam bir aracın yanındaki bir resim için poz veriyor	Bir adam kapısı ve gövdesi açık olan klasik bir Amerikan arabasının direksiyonunda duruyor	3.2	NEUTRAL
+9287	Bir adam bir tepeden kayak yapıyor ve kırmızı bir engel atlıyor	Bir adam karda bir korkuluk aşağı snowboard yapıyor	3.1	NEUTRAL
+9303	Kaykaycı havaya atlıyor	Bir kaykaycı havaya atlıyor	4.9	ENTAILMENT
+9314	Bir snowboardcu uzun bir beton rayı taşıyor	Bir kişi snowboard'da akrobasi yapıyor	3.3	NEUTRAL
+9336	Bir grup insan caddede yürüyor ve yeşil şapkalı bir kişi telefonda	Dört kişi bir şehir kaldırımı boyunca yürüyor ve yeşil şapkadaki biri birini arıyor	4.2	NEUTRAL
+9359	Bir sörfçü büyük bir dalga sörf yapıyor	Bir sörfçü büyük bir dalga sörf yapıyor	4.9	ENTAILMENT
+9371	Kırmızı kapüşonlu ceket ve siyah sırt çantası olan bir kişi kayalık bir duvarın yanında yürüyor	Kırmızı ceketli bir adam ve haki pantolon bir Avrupa devletinde yürüyor	3.0	NEUTRAL
+9380	Oyuncular futbol topu için manevra yapıyor	Yeşil bir adam bir futbol topu tekme atıyor ve mor ve beyaz bir adam yükseliyor	3.5	NEUTRAL
+9401	Deri ahbaplar giymiş adam ve mor bir gömlek birisinin önünde duruyor	Bir adam mor bir gömlek ve siyah deri ahbap giyiyor ve kamera için poz veriyor	3.3	NEUTRAL
+9424	Bir köpek, havaya karıştırılan kumlu kumlu bir bölgede ve birkaç bitki arka planda	Havada üfleyen kumda bir köpek var	4.1	NEUTRAL
+9425	Rüzgarda üfleyen kumda hiçbir köpek yok	Bir köpek, havaya karıştırılan kumlu kumlu bir bölgede ve birkaç bitki arka planda	4.0	CONTRADICTION
+9433	Siyah beyaz köpek yeşil bir bahçede koşuyor	Siyah beyaz bir köpek dışarıda koşuyor	4.4	ENTAILMENT
+9452	Ülkedeki bir köpek havaya atlıyor	Bir köpek bazı ağaçların gölgesine atlıyor	3.7	NEUTRAL
+9453	Bir köpek bazı ağaçların gölgesine atlıyor	Bir kedi ülkede havaya zıplıyor	1.6	NEUTRAL
+9490	Kahverengi çim alanında dört kahverengi köpek kümesi çalıyor	Dört köpek çimenli bir bölgede oynamıyor	4.0	CONTRADICTION
+9500	Büyük kahverengi ve beyaz benekli bir köpek sokakta bir ceketin üzerinde yatıyor	Köpek parkta kestiriyor	2.9	NEUTRAL
+9545	Sarı spor bisikletindeki bir adam bir tekerlekli yapıyor ve siyah bisiklette bir arkadaş yakıyor	Portakal giymiş binici bir tekerleğin üzerinde bir motosiklet sürüyor	2.8	NEUTRAL
+9571	Yaşlı bir adam bir bankta oturuyor ve gri bir ceket ve siyah pantolon giyiyor	Yaşlı bir adam bir bankta oturuyor	4.5	ENTAILMENT
+9584	Kadın boya fırçasını sanatçının şövalyesinin yanında tutuyor	Bayan boya fırçasını sanatçının şövalyesinin yanında tutuyor	4.9	ENTAILMENT
+9623	Bir adam mavi bir gömlek giyiyor ve bir tenis sahasında çıplak ayakla yürüyor	Bir kadın mavi bir gömlek giyiyor ve bir tenis sahasında çıplak ayakla yürüyor	3.6	NEUTRAL
+9669	Genç kız bir çeşmenin kenarında oynuyor ve yaşlı bir kadın onu izliyor	Genç bir kız bir çeşmenin kenarında oynuyor ve yaşlı bir kadın onu izliyor	4.8	ENTAILMENT
+9677	Genç bir kız bir çeşmenin kenarında oynuyor ve yaşlı bir kadın onu izliyor	Küçük bir kız ve sarı gömlek giyen bir kadın bir şehir çeşmesi tarafından sıçrıyor	3.5	NEUTRAL
+9706	Sahada büyük bir dallı siyah beyaz bir köpek duruyor	Sahada büyük bir dallı siyah beyaz bir köpek çalışıyor	4.2	CONTRADICTION
+9713	Siyah beyaz bir köpek yeşil çimlere büyük bir sopa taşıyor	Sahada büyük bir dallı siyah beyaz bir köpek çalışıyor	4.5	ENTAILMENT
+9722	Bir çocuk kumdan geçiyor	Çizgili gömlek giyen bir çocuk, kumlu tepede çıplak ayakla koşuyor	3.9	NEUTRAL
+9745	İki genç erkek kameraya bakıyor ve biri dilini çıkarıyor	Küçük çocuk dilini kameraya yapıştırıyor ve başka bir çocuk bakıyor	4.4	NEUTRAL
+9747	Küçük bir çocuk kamera için dilini çıkarıyor ve başka bir çocuk bakıyor	İki çocuk kameraya bakıyor ve biri dilini çıkarıyor	4.4	ENTAILMENT
+9759	Gülen bir çocuk su tabancası tutuyor ve su püskürtülüyor	Mavi ceketli bir kişi uzun bir çimento duvarına atlıyor	1.1	NEUTRAL
+9763	Bir kişi bazı mantarları dilimliyor	Fil kadın tarafından sürülüyor	1.0	NEUTRAL
+9771	İki küçük çocuk sokakta bir oyuncak arabasıyla oynuyor	Bir köpek bir tarladan geçiyor ve bir oyuncağı kovalıyor	1.4	NEUTRAL
+9788	Bir adam elektro gitar çalıyor	Bir grup insan içecek tutuyor ve kameraya işaret ediyor	1.0	NEUTRAL
+9789	Altın ve Morlu Bir Kız Gökkuşağı Afgan tutuyor	Bir adam fırçada çömeliyor ve fotoğraf çekiyor	1.0	NEUTRAL
+9822	İki kişi bisiklet sürüyor	Pratik bir jumper bir kişinin snowboard'u havaya fırlatıyor	2.0	NEUTRAL
+9838	Bazı enstrümanlar bir grup tarafından oynanıyor	Genç, üstsüz bir kadın boya ile kaplıdır	1.0	NEUTRAL
+9843	Bir aile otomattan bir şeyler satın alıyor	Takım elbiseli bir adam mikrofonda duruyor ve şarkı söylüyor	1.0	NEUTRAL
+9869	Bir maymunun üzerine bisiklet sürülüyor	Bir kişi bir kir tepesinden kir bisiklete biniyor	2.8	NEUTRAL
+9880	Bir motorcu bir çitten uzaklaşıyor	Bir adam yolda dans ediyor	1.2	NEUTRAL
+9931	Bir kadın elektro gitar çalıyor	Bir çocuk gitar çalıyor	3.0	NEUTRAL
+9963	Hayvan çimlerin üzerinde otlatıyor	Polis bir polis bisikletinin üzerinde oturuyor	1.0	NEUTRAL
+9975	Köpek bazı damlacıklara yapışıyor	Bir gruptaki bir kız bir enstrüman çalıyor	1.0	NEUTRAL
+9988	Genç bir adam bir motokros bisikletini bir toprak tepeden aşağı itiyor	Bir köpek tenis topundan sonra yüzüyor	1.0	NEUTRAL
