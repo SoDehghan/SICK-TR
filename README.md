@@ -56,7 +56,7 @@ path_SICK =   '/SICK_path/'
 sick_reader = SICKReader(path_SICK)
 data_split = ['train' , 'test', 'trial']
 
-id, sent_1 , sent_2 , labels  , scores , annotator_labels , all_data  = sick_reader.get_data (data_split[0])
+id, sent_1, sent_2, labels, scores, annotator_labels, all_data = sick_reader.get_data (data_split[0])
 
 ```       
 
